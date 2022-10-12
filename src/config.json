@@ -34,6 +34,24 @@
 			"address": "0xf56eD75B7c312Ec091E2437502842484D792F00E"
 		},
 		"explorerURL": "https://goerli.etherscan.io/"
+	},
+	"80001": {
+		"exchange": {
+			"address": "0x64302AcA9795907d7BcD6e9f521942434F478164"
+		},
+
+		"XION": {
+			"address": "0x80523ac692cf2bCB37490d97B22Bc02aB2F97e87"
+		},
+
+		"mETH": {
+			"address": "0xf56eD75B7c312Ec091E2437502842484D792F00E"
+		},
+
+		"mDAI": {
+			"address": "0xEe595555696dE2d731dc56391A4CB118dc2aBfDd"
+		},
+		"explorerURL": "https://mumbai.polygonscan.com/"
 	}
 
 }
